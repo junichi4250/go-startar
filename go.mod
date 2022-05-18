@@ -30,8 +30,8 @@ require (
 	github.com/subosito/gotenv v1.2.0
 	github.com/volatiletech/null/v8 v8.1.2
 	github.com/volatiletech/randomize v0.0.1
-	github.com/volatiletech/sqlboiler/v4 v4.9.2
-	github.com/volatiletech/strmangle v0.0.2
+	github.com/volatiletech/sqlboiler/v4 v4.11.0
+	github.com/volatiletech/strmangle v0.0.4
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
 	golang.org/x/sys v0.0.0-20220503163025-988cb79eb6c6
 	golang.org/x/text v0.3.7
