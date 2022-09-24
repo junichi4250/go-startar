@@ -24,7 +24,7 @@ require (
 	github.com/rogpeppe/go-internal v1.8.1
 	github.com/rs/zerolog v1.26.1
 	github.com/rubenv/sql-migrate v1.1.1
-	github.com/spf13/cobra v1.4.0
+	github.com/spf13/cobra v1.5.0
 	github.com/spf13/viper v1.10.1
 	github.com/stretchr/testify v1.7.1
 	github.com/subosito/gotenv v1.2.0
