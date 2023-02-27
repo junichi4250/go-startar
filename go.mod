@@ -3,7 +3,7 @@ module allaboutapps.dev/aw/go-starter
 go 1.17
 
 require (
-	github.com/BurntSushi/toml v1.1.0
+	github.com/BurntSushi/toml v1.2.1
 	github.com/allaboutapps/integresql-client-go v1.0.0
 	github.com/allaboutapps/nullable v1.3.0
 	github.com/davecgh/go-spew v1.1.1
