@@ -8,7 +8,7 @@ require (
 	github.com/allaboutapps/nullable v1.3.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/friendsofgo/errors v0.9.2
-	github.com/gabriel-vasile/mimetype v1.4.0
+	github.com/gabriel-vasile/mimetype v1.4.2
 	github.com/go-openapi/errors v0.20.3
 	github.com/go-openapi/runtime v0.23.3
 	github.com/go-openapi/strfmt v0.21.2
@@ -33,8 +33,8 @@ require (
 	github.com/volatiletech/sqlboiler/v4 v4.13.0
 	github.com/volatiletech/strmangle v0.0.4
 	golang.org/x/crypto v0.6.0
-	golang.org/x/sys v0.5.0
-	golang.org/x/text v0.7.0
+	golang.org/x/sys v0.6.0
+	golang.org/x/text v0.8.0
 	google.golang.org/api v0.107.0
 )
 
@@ -110,7 +110,7 @@ require (
 	github.com/volatiletech/inflect v0.0.1 // indirect
 	go.mongodb.org/mongo-driver v1.8.4 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
